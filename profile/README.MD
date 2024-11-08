@@ -6,10 +6,10 @@ ShoppingNova
 # 📺 프로젝트 주소
 
 # 👨‍👩‍👧‍👦 팀 소개
-|       김건우       |       정하은       |       하선웅       |       홍성문       |
+|       김건우       |       하선웅       |       정하은       |       홍성문       |
 | :--------------: | :--------------: | :--------------: | :--------------: |
 |        FE         |        FE         |        BE       |        BE         |
-| [@dev-gonu](https://github.com/dev-gonu) |[@bpl135](https://github.com/bpl135)|[@devnok](https://github.com/devnok)|[@HHsungmoon](https://github.com/HHsungmoon)|
+| [@dev-gonu](https://github.com/dev-gonu)|[@devnok](https://github.com/devnok) |[@bpl135](https://github.com/bpl135)|[@HHsungmoon](https://github.com/HHsungmoon)|
 
 # 🎤 발표 영상
 
