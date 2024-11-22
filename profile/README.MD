@@ -1,4 +1,4 @@
-# 🔎 프로젝트 소개
+# 🔎 Intro
 
 ShoppingNova
 
@@ -6,21 +6,22 @@ ShoppingNova
 
 이 독특한 쇼핑 경험을 통해 쇼핑노바는 기존의 온라인 쇼핑몰을 넘어, 고객에게 색다른 즐거움을 선사하며, LG 전자 제품을 재미있게 탐색할 수 있는 기회를 제공합니다. 우주의 끝없이 펼쳐진 공간속으로 빠져들어가 제품을 찾고, 쇼핑하는 새로운 방식을 경험해 보세요!
 
-# 📺 프로젝트 주소
+# 📺 Project link
 
-# 👨‍👩‍👧‍👦 팀 소개
+# 👨‍👩‍👧‍👦 Team Member
 |       김건우       |       하선웅       |       정하은       |       홍성문       |
 | :--------------: | :--------------: | :--------------: | :--------------: |
 |        FE         |        FE         |        BE       |        BE         |
 | [@dev-gonu](https://github.com/dev-gonu)|[@devnok](https://github.com/devnok) |[@bpl135](https://github.com/bpl135)|[@HHsungmoon](https://github.com/HHsungmoon)|
 
-# 🎤 발표 영상
+# 🎤 Presentation
 
 
-# ⚒️ 주요 기능
+# ⚒️ Main Feature
 
-
-# ⚙️ 기술 스택
+# Architecture
+![img](./images/architecture.png)
+# ⚙️ Tech Stack
 <p align="center"> 
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=github,figma,java,spring,aws,typescript,react,threejs&perline=4" />
