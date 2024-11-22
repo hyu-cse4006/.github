@@ -20,7 +20,7 @@ ShoppingNova
 # ⚒️ Main Feature
 
 # Architecture
-![img](./images/architecture.png)
+![img](./images/System_Architecture.png)
 # ⚙️ Tech Stack
 <p align="center"> 
     <a href="https://skillicons.dev">
