@@ -10,6 +10,8 @@ This unique shopping experience transcends traditional online malls, offering cu
 
 # 📺 Project link
 
+figma: [피그마 링크](https://www.figma.com/design/KKuzOGbRat5svzX4RtylhZ/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EA%B3%B5%ED%95%99---ShoppingNova-Design?node-id=5-4&node-type=frame&t=AXbhWZ7givIXjdca-0)
+
 # 👨‍👩‍👧‍👦 Team Member
 |       김건우       |       하선웅       |       정하은       |       홍성문       |
 | :--------------: | :--------------: | :--------------: | :--------------: |
