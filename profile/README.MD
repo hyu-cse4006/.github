@@ -26,7 +26,7 @@ Project: [웹 링크](http://3.35.230.235/)
 # ⚒️ Main Feature
 
 # Architecture
-![img](./images/System_Architecture.png)
+![img](./images/architecture.png)
 # ⚙️ Tech Stack
 <p align="center"> 
     <a href="https://skillicons.dev">
