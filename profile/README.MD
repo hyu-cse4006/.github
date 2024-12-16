@@ -20,7 +20,7 @@ Project: [웹 링크](http://3.35.230.235/)
 |        FE         |        FE         |        BE       |        BE         |
 | [@dev-gonu](https://github.com/dev-gonu)|[@devnok](https://github.com/devnok) |[@bpl135](https://github.com/bpl135)|[@HHsungmoon](https://github.com/HHsungmoon)|
 
-# 🎤 Presentation
+# 🎤 Presentation PPT
 
 
 # ⚒️ Main Feature
